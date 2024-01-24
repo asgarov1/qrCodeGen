@@ -1,6 +1,6 @@
-package at.ama.pdfgen.qr.util;
+package com.asgarov.qr.util;
 
-import at.ama.pdfgen.qr.dto.QrCodeDto;
+import com.asgarov.qr.dto.QrCodeDto;
 import com.google.zxing.BinaryBitmap;
 import com.google.zxing.MultiFormatReader;
 import com.google.zxing.NotFoundException;
