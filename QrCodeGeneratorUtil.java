@@ -1,4 +1,4 @@
-package at.ama.pdfgen.qr.util;
+package com.asgarov.qr.util;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;
