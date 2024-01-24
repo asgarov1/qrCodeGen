@@ -1,4 +1,4 @@
-package at.ama.pdfgen.qr.dto;
+package com.asgarov.qr.dto;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
